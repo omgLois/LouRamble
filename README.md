@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LouRamble
+- 👋 Hi, I’m @Lou 
 - 👀 I’m interested in CICD, file and folder management and the wider policies around dedup, relevance and storage and tagging of digital assets for now.
 
 - 🌱 I’m currently learning ... Lots of storage management solutions and integrations.
