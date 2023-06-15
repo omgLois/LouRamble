@@ -7,9 +7,6 @@
 🌱  I’m interested in developing Engineering and Software Development best practice, CICD Pipelines, Infrastructure as Code, Storage Management as well as governance and audit around data, code reviews, data policy,  file and folder management and tagging of digital assets for now.
 
 🌱 I’m currently learning ... Lots of storage management solutions and integrations.
-💞️ I’m looking to collaborate on task and extension development and shared tool development.
-
-📫 How to reach me... Leave a message here.
 
 <!---
 LouRamble/LouRamble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
